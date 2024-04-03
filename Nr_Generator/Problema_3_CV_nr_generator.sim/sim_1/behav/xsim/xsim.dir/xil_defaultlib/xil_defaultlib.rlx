@@ -1,0 +1,20 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sim_1/new/sim.v,1712082432,verilog,,,,sim,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/COMP_EQ.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/COM_BEH.v,,COMP_EQ,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/COM_BEH.v,1711992438,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/MUXXX.v,,COM_BEH,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/MUXXX.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/RAM2k.v,,MUXXX,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/RAM2k.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/TOP.v,,RAM2k,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/TOP.v,1712082273,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/compute_struct.v,,TOP,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/compute_struct.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/ct_11b.v,,compute_struct,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/ct_11b.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/inmultire.v,,ct_11b,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/inmultire.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/modul.v,,inmultire,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/modul.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/paritate.v,,modul,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/paritate.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/reg_8b.v,,paritate,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/reg_8b.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/scadere.v,,reg_8b,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/scadere.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/subs.v,,scadere,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/subs.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/sumator.v,,subs,,,,,,,,
+E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/sumator.v,1711984834,verilog,,E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sim_1/new/sim.v,,sumator,,,,,,,,
